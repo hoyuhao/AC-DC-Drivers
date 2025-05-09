@@ -22,7 +22,7 @@ This repository documents coursework and practical projects focused on motor con
 - Control logic based on Hall sensor feedback.
 - Includes waveform capture and testing.
 
-## Final_Project_FOC
+### Final_Project_FOC
 
 - Full implementation of **Field-Oriented Control (FOC)** using F28379D.
 - Current and speed control loop in Simulink.
