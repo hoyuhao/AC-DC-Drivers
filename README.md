@@ -1,5 +1,5 @@
 # AC-DC-Drivers
-This repository documents coursework and practical projects focused on motor control systems. The course introduces fundamental concepts and hands-on practices across three core domains: electromechanical systems, driver circuits, and microcontroller programming.
+This repository documents coursework and hands-on projects from the course **"AC DC Drivers"**, taught by **Professor Min-Fu Hsieh**. The course introduces fundamental concepts and hands-on practices across three core domains: electromechanical systems, driver circuits, and microcontroller programming.
 
 ### 🧰 Hardware & Tools
 - **Microcontroller** : Texas Instruments **F28379D LaunchPad**
